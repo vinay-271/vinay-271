@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay-271&label=Profile%20views&color=0e75b6&style=flat" alt="vinay-271" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Mathematics for fit, with basic projects to boost leanring.**
+- 🌱 I’m currently learning **Machine Learning and Mathematics for ML, with basic projects to boost leanring.**
 
 - 💬 Ask me about **DSA, Machine Learning, Mathematics.**
 
-- 📫 How to reach me **vinar.official271b@gmail.com**
+- 📫 How to reach me **vinay.official271b@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
