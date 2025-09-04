@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **DSA, Machine Learning, Mathematics.**
 
-- 📫 How to reach me **vinar.official271b@gmail.com**
+- 📫 How to reach me **vinay.official271b@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
